@@ -73,7 +73,7 @@ J'ai utilisé **Claude** (Claude Code dans VS Code) comme assistant de travail :
 - relecture du code proposé par Claude, et correction quand il se trompait ;
 - **contrôle externe** : mon taux d'arrivées à l'heure (92,5 %, tous arrêts confondus) est cohérent avec le chiffre officiel publié par Infrabel pour septembre 2026 (92,8 %, mesuré en gare terminus).
 
-Les questions d'analyse, l'interprétation et les recommandations finales sont les miennes.
+L'analyse, l'interprétation des résultats et les recommandations finales sont les miennes.
 
 ## Structure du dépôt
 
