@@ -60,6 +60,21 @@ Python 3.13 · pandas · matplotlib · Jupyter Notebook (VS Code)
 
 **Pistes pour aller plus loin :** analyser plusieurs mois pour confirmer les tendances, et croiser avec des données météo ou de travaux.
 
+## Méthode et utilisation de l'IA
+
+J'ai utilisé **Claude** (Claude Code dans VS Code) comme assistant de travail :
+- **Code** : aide à l'écriture du code pandas et au débogage.
+- **Rédaction** : reformulation des conclusions pour un public non technique.
+- **Jeu de rôle « manager »** : Claude a joué le rôle d'un manager qui pose des questions business ; j'y ai répondu par l'analyse.
+
+**Vérification des résultats :**
+- contrôle du nombre de lignes avant et après chaque étape de nettoyage ;
+- contrôle des valeurs manquantes ;
+- relecture du code proposé par Claude, et correction quand il se trompait ;
+- **contrôle externe** : mon taux d'arrivées à l'heure (92,5 %, tous arrêts confondus) est cohérent avec le chiffre officiel publié par Infrabel pour septembre 2026 (92,8 %, mesuré en gare terminus).
+
+Les questions d'analyse, l'interprétation et les recommandations finales sont les miennes.
+
 ## Structure du dépôt
 
 ```
